@@ -33,6 +33,6 @@ Where can I get more information on ?
 
 Look at the  web site
 
-                                http://github.com/OpenRefine/OpenRefine/wiki
-                                http://luiseduardobrito.github.io
-                                http://gpnxgroup.com
+http://github.com/OpenRefine/OpenRefine/wiki
+http://luiseduardobrito.github.io
+http://gpnxgroup.com
