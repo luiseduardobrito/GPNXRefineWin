@@ -17,16 +17,16 @@ Redesigned by Luis Eduardo Brito <luis@gpnxgroup.com>
 Introduction
 ----------------------------------------------
 
-How to:
-    python refine.py [options]
-
-Available options:
-    --version                  get local version
-    --skip-update-check        skip remote check, just take me to the grefine
-    --purge-installation       purge all stuff and redownload from remote
-    --workspace [name]         specify remote workspace
-    --directory [name]         specify local workspace
-    --help                     SOS: help me
+    How to:
+        python refine.py [options]
+        
+    Available options:
+        --version                  get local version
+        --skip-update-check        skip remote check, just take me to the grefine
+        --purge-installation       purge all stuff and redownload from remote
+        --workspace [name]         specify remote workspace
+        --directory [name]         specify local workspace
+        --help                     SOS: help me
 
 Where can I get more information on ?
 ----------------------------------------------
